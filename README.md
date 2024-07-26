@@ -34,7 +34,7 @@ You can open the index.html file directly in any modern web browser to view the 
 
 **Customization**
 
-•	**Background Image:** The background image is set via URL in the CSS file. You can change this URL to use a different background image by modifying the .four_zero_four_bg class in style.css.
+•	**Background Image:** The background image is set via URL in the CSS file. You can change this URL to use a different background image by modifying the bg in style.css.
 
 •	**Text Content:** Modify the text content directly in the index.html file if you want to customize the error message or call-to-action text.
 
