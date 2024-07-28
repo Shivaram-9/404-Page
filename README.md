@@ -22,7 +22,7 @@
 
 **1.	Clone the Repository:**
 
-git clone https://github.com/Shivaram-9/simple-404-error-page.git 
+git clone https://github.com/Shivaram-9/404-Page.git 
 
 **2.	Navigate to the Project Directory:**
 
